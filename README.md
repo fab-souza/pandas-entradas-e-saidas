@@ -12,5 +12,8 @@
 | :rocket: URL         | https://github.com/fab-souza/pandas-entradas-e-saidas/
 | :fire: Desafio     | 
 
+![](https://user-images.githubusercontent.com/67301805/208135938-c83ff4a2-951e-4dff-958a-bb3199690357.jpg#vitrinedev)
+
+
 
 O que aprendi no 5º curso da formação: Python para Data Science (Alura)
