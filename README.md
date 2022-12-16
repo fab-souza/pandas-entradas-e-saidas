@@ -10,7 +10,7 @@
 | :sparkles: Nome        | **Pandas: entradas e saídas**
 | :label: Tecnologias | python
 | :rocket: URL         | https://github.com/fab-souza/pandas-entradas-e-saidas/
-| :fire: Desafio     | 
+| :fire: Desafio     | Conteúdo do curso [Pandas: formatos diferentes de entrada e saída (IO)](https://cursos.alura.com.br/course/pandas-io)
 
 ![](https://user-images.githubusercontent.com/67301805/208135938-c83ff4a2-951e-4dff-958a-bb3199690357.jpg#vitrinedev)
 
