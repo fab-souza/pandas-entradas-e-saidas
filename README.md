@@ -14,7 +14,7 @@
 
 ![](https://user-images.githubusercontent.com/67301805/208135938-c83ff4a2-951e-4dff-958a-bb3199690357.jpg#vitrinedev)
 
-O que aprendi no curso **Pandas: formatos diferentes de entrada e saída (IO)**, da formação: Python para Data Science (Alura)
+O curso simula o desenvolvimento do banco de dados de uma escola de programação, iniciando com arquivos no formato json, compostos por nomes de alunos, sua região, sua frequência, sua posição no rank e gênero, que serviu como fonte para os nomes. Em seguida, foi atribuído, de forma randômica, um id, email e número de cursos para cada aluno. Ao final, aprendi como fazer a exportação do dataframe no formato SQL e Excel, consequentemente, de como fazer a leitura destes arquivos.
 
 ---
 <h3>Ferramentas utilizadas:</h3>
