@@ -19,7 +19,7 @@
 O curso simula o desenvolvimento do banco de dados de uma escola de programação, iniciando com arquivos no formato json, compostos por nomes de alunos, sua região, sua frequência, sua posição no rank e gênero, que serviu como fonte para os nomes. Em seguida, foi atribuído, de forma randômica, um id, email e número de cursos para cada aluno. Ao final, aprendi como fazer a exportação do dataframe no formato SQL e Excel, consequentemente, de como fazer a leitura destes arquivos.
 
 
-## Minha prática
+## Minha prática 👩🏻‍💻
 
 Pensei em fazer algo semelhante, ao usar o dataset [US Baby Name Popularity](https://www.kaggle.com/datasets/robikscube/us-baby-name-popularity?select=names.csv), disponível no [Kaggle](https://www.kaggle.com/), e para a parte dos cursos, usei o [College Majors and their Graduates](https://www.kaggle.com/datasets/thedevastator/uncovering-insights-to-college-majors-and-their), também do Kaggle.
 
