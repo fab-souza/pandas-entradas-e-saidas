@@ -24,7 +24,9 @@ O curso simula o desenvolvimento do banco de dados de uma escola de programaçã
 Pensei em fazer algo semelhante, ao usar o dataset [US Baby Name Popularity](https://www.kaggle.com/datasets/robikscube/us-baby-name-popularity?select=names.csv), disponível no [Kaggle](https://www.kaggle.com/), e para a parte dos cursos, usei o [College Majors and their Graduates](https://www.kaggle.com/datasets/thedevastator/uncovering-insights-to-college-majors-and-their), também do Kaggle.
 
 
-O dataset de nomes contém uma quantidade maior do que 2 milhões de nomes, por isso limitei os registros até o ano de 2020 e foi reduzido a quase 32.000 registros. Desta seleção, há quase 29 mil registros únicos. Usei o *.random*, do Numpy, para atribuir um número para cada registro do dataframe, para se tornar o index, enquanto o id original se torna o número de registro do aluno. Ao invés de adicionar um email para cada aluno, crie uma nova variável que mostra a situação dos alunos, se eles ainda estão estudando, se já concluíram ou se o curso foi interrompido. 
+O dataset de nomes contém uma quantidade maior do que 2 milhões de nomes, por isso limitei os registros até o ano de 2020 e foi reduzido a quase 32.000 registros. Desta seleção, há quase 29 mil registros únicos. Usei o *.random*, do Numpy, para atribuir um número para cada registro do dataframe, para se tornar o index, enquanto o id original se torna o número de registro do aluno. Ao invés de adicionar um email para cada aluno, criei uma nova variável que mostra a situação dos alunos, se eles ainda estão estudando, se já concluíram ou se o curso foi interrompido. 
+
+
 
 A partir do dataset sobre as graduações nos EUA, usei os 173 cursos para distribuir entre os alunos do dataframe que desenvolvi e fiz a exportação para o formato csv, json e html. 
 
